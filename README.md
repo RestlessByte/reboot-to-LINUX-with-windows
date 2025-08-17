@@ -4,5 +4,5 @@
 ## How usage?
 
 ```bash 
-git clone git@github.com:RestlessByte/reboot-to-windows-with-LINUX.git
+git clone git@github.com:RestlessByte/reboot-to-LINUX-with-windows.git
 ```
