@@ -3,7 +3,7 @@ REM ---------------------||Windows to LINUX reboot||---------------------
 REM need admin permission
 net session >nul 2>&1
 if %errorlevel% NEQ 0 (
-  echo [!] Нужны права администратора. Повторный запуск...
+  echo [!] Need permission administration
   powershell -Command "Start-Process -Verb RunAs -FilePath '%~f0'"
   exit /b
 )
