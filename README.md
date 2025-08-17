@@ -1,5 +1,5 @@
-#  Script for optimization reboot with windows on **LINUX**
-### 🪟 [**Reboot with LINUX TO windows**](https://github.com/RestlessByte/reboot-to-LINUX-with-windows)
+#  Script for optimization reboot with **LINUX** on  windows
+### 🪟 [**Reboot with windows TO LINUX**](https://github.com/RestlessByte/reboot-to-LINUX-with-windows)
 
 ## How usage?
 
