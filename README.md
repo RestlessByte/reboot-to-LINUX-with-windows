@@ -3,6 +3,6 @@
 
 ## How usage?
 
-```shell 
-git clone git@github.com:RestlessByte/reboot-to-LINUX-with-windows.git
+```bash 
+git clone git@github.com:RestlessByte/reboot-to-windows-with-LINUX.git
 ```
